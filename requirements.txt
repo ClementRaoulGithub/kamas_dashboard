@@ -34,5 +34,5 @@ urllib3==2.1.0
 Werkzeug==3.0.1
 wheel==0.41.2
 zipp==3.17.0
-gunicorn==21.2.0
+gunicorn==22.0.0
 
